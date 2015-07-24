@@ -1,0 +1,5 @@
+[2015-07-24 14:09:35,836] INFO Fetching metadata from broker id:0,host:localhost,port:9092 with correlation id 7227 for 1 topic(s) Set(test_twitter) (kafka.client.ClientUtils$)
+[2015-07-24 14:09:35,861] INFO Connected to localhost:9092 for producing (kafka.producer.SyncProducer)
+[2015-07-24 14:09:35,862] INFO Disconnecting from localhost:9092 (kafka.producer.SyncProducer)
+[2015-07-24 14:09:35,863] INFO Disconnecting from localhost:9092 (kafka.producer.SyncProducer)
+[2015-07-24 14:09:35,866] INFO Connected to localhost:9092 for producing (kafka.producer.SyncProducer)

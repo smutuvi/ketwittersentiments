@@ -1,0 +1,4 @@
+[2015-07-08 11:54:06,698] INFO Verifying properties (kafka.utils.VerifiableProperties)
+[2015-07-08 11:54:06,734] INFO Property metadata.broker.list is overridden to localhost:9092 (kafka.utils.VerifiableProperties)
+[2015-07-08 11:54:06,734] INFO Property request.required.acks is overridden to 1 (kafka.utils.VerifiableProperties)
+[2015-07-08 11:54:06,736] INFO Property serializer.class is overridden to kafka.serializer.StringEncoder (kafka.utils.VerifiableProperties)

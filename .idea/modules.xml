@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kafka-spark/kafka-spark.iml" filepath="$PROJECT_DIR$/kafka-spark/kafka-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pankh.iml" filepath="$PROJECT_DIR$/pankh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter-kafka/twitter-kafka.iml" filepath="$PROJECT_DIR$/twitter-kafka/twitter-kafka.iml" />
+    </modules>
+  </component>
+</project>
